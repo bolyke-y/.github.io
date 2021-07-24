@@ -145,9 +145,6 @@
 .banner-img:first-child::after {
   transform: translate(-4px, -20px);
 }
-.banner-img:last-child img {
-  padding: 20px;
-}
 .banner-img span {
   font-size: 13px;
   line-height: 20px;
