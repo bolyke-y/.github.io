@@ -122,6 +122,12 @@
   align-items: center;
   width: 33.3%;
 }
+.banner-img img {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  object-position: center;
+}
 .banner-img:not(:last-child)::after {
   content: '+';
   position: absolute;
